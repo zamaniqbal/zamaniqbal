@@ -1,4 +1,4 @@
-## Hey, my name is Zaman, welcome to my profile! 👋
+## Hey, my name is Zaman and welcome to my profile! 👋
 
 <!--
 **zamaniqbal/zamaniqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
