@@ -3,6 +3,8 @@
 
 ### 🔭 Currently working on behalf of The Data School as a consultant for a leading telecoms provider, leveraging my Tableau and SQL skills
 
+### 📊 Skilled in Tableau, Power BI, Alteryx, SQL
+
 ### 🌱 Learning Python for Data Analytics - focusing on data wrangling, analysis, and automation
 
 ### 🧠 Leveling up my SQL — focusing on mastering CTEs, self-joins, and writing more efficient, readable queries
