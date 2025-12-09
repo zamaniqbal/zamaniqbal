@@ -1,6 +1,6 @@
 # Hi, I'm Zaman 👋
 
-I'm a Data Analytic Consultant at The Information Lab, where I work across a range of industries solving real-world problems with data. My work involves building analytics solutions using **Tableau**, **Alteryx**, **SQL**, and **Power BI**, with a growing focus on **Python** and **Analytics Engineering**.
+I'm a Data Analytics Consultant at The Information Lab, where I work across a range of industries solving real-world problems with data. My work involves building analytics solutions using **Tableau**, **Alteryx**, **SQL**, and **Power BI**, with a growing focus on **Python** and **Analytics Engineering**.
 
 ## 🔧 What I Work With
 - **SQL** – advanced querying, data modelling, performance optimisation   
