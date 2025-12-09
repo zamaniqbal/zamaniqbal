@@ -1,13 +1,39 @@
-# Hey, my name is Zaman 👋
-## Welcome to my profile 😁
+# Hi, I'm Zaman 👋
 
-### 🔭 Currently working on behalf of The Data School as a consultant for a leading telecoms provider, leveraging my Tableau and SQL skills
+I'm a Data Analytic Consultant at The Information Lab, where I work across a range of industries solving real-world problems with data. My work involves building analytics solutions using **Tableau**, **Alteryx**, **SQL**, and **Power BI**, with a growing focus on **Python** and **Analytics Engineering**.
 
-### 📊 Skilled in Tableau, Power BI, Alteryx, SQL
+## 🔧 What I Work With
+- **SQL** – advanced querying, data modelling, performance optimisation   
+- **Tableau** – interactive dashboards, data storytelling, KPI design  
+- **Alteryx** – automated workflows, data preparation, formula tools, macros  
+- **Power BI** – data modelling, DAX, report building  
 
-### 🌱 Learning Python for Data Analytics - focusing on data wrangling, analysis, and automation
+## 📊 What I'm Interested In
+- Analytics Engineering & scalable data workflows  
+- Building end-to-end data pipelines  
+- Python for data transformation and automation  
+- Sports analytics (particularly football)  
+- Improving data quality, reproducibility & documentation practices  
 
-### 🧠 Leveling up my SQL — focusing on mastering CTEs, self-joins, and writing more efficient, readable queries
+## 💼 Experience
+I'm currently working on a long-term analytics placement within the **insurance sector.**
+At The Data School I've delivered analytics projects across a range of industries including:
+- **Elite Sport**  
+- **Transportation**  
+- **Finance**  
+- **Education & public sector**  
+- Plus an extended analytics engagement with a **major telecommunications provider**
+
+## 📁 What You’ll Find Here
+- SQL practice & advanced query exercises  
+- Python notebooks as I learn more about data engineering concepts  
+- Tableau & data visualisation projects   
+- Personal analytics projects (including sports analytics)
+
+## 🌱 Currently Learning
+- - **Python** – data processing, automation, and learning tools for Analytics Engineering 
+- **dbt fundamentals**  
+- Data modelling 
 
 
 
