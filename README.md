@@ -13,7 +13,6 @@ I'm a Data Analytics Consultant at The Information Lab, where I work across a ra
 - Building end-to-end data pipelines  
 - Python for data transformation and automation  
 - Sports analytics (particularly football)  
-- Improving data quality, reproducibility & documentation practices  
 
 ## 💼 Experience
 I'm currently working on a long-term analytics placement within the **insurance sector.**
