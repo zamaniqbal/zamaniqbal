@@ -27,8 +27,8 @@ At The Data School I've delivered analytics projects across a range of industrie
 - **SQL practice** & advanced query exercises  
 - **Python** notebooks as I learn more about data engineering concepts  
 - **Tableau** & data visualisation projects   
-- **Personal analytics projects** (including sports analytics)
-
+- **Personal analytics projects**
+  
 ## 🌱 Currently Learning
 - **Python** – data processing, automation, and learning tools for Analytics Engineering 
 - **dbt fundamentals**  
