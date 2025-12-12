@@ -36,8 +36,8 @@ At The Data School I've delivered analytics projects across a range of industrie
 
 ## Certifications
 
-<img width="100" height="100" alt="Certification_Designer_Core" src="https://github.com/user-attachments/assets/58d12298-80c8-4b8f-9d34-f78133d30a55" /> <img width="100" height="100" alt="tableau-certified-data-analyst 1" src="https://github.com/user-attachments/assets/ebbcf953-af3a-42b2-97ae-e52c158f477e" /> <img width="100" height="100" alt="dbt fundamentals" src="https://github.com/user-attachments/assets/beaac67e-5642-4db9-ab02-2d0898bb20a4" />
-
+<img width="100" height="100" alt="Certification_Designer_Core" src="https://github.com/user-attachments/assets/58d12298-80c8-4b8f-9d34-f78133d30a55" /> <img width="100" height="100" alt="tableau-certified-data-analyst 1" src="https://github.com/user-attachments/assets/ebbcf953-af3a-42b2-97ae-e52c158f477e" /> [<img width="100" height="100" alt="dbt fundamentals" src="https://github.com/user-attachments/assets/beaac67e-5642-4db9-ab02-2d0898bb20a4" />
+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/169204600)
 
 
 
